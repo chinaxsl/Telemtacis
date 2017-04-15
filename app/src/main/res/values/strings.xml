@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Telematics</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--用户登录相关-->
+    <string name="fragment_login_autocompletetextview_user_name">手机号</string>
+    <string name="fragment_login_edittext_user_password">密码</string>
+    <string name="fragment_login_checkbox_save_password">保存密码</string>
+    <string name="fragment_login_checkbox_auto_login">自动登录</string>
+    <string name="fragment_login_button_login">立即登录</string>
+    <string name="fragment_login_textview_forgot_password">忘记密码？</string>
+    <string name="fragment_login_textview_register">立即注册？</string>
+    <string name="edit_info">修改信息</string>
+    <string name="cancle_login">退出登陆</string>
+    <string name="submit_edit">提交修改</string>
+    <string name="not_login_regulation">登录过后可以快速查询自己的违章信息</string>
+    <string name="not_login">点击登陆</string>
+    <string name="not_login_moregas">登录过后可以选择给爱车加油哦</string>
+
+    <string name="custom_regulations">自定义查询</string>
+    <string name="notice">友情提示</string>
+    <string name="sure_to_quit">亲，你确定要退出？</string>
+
+    <string name="search">搜索</string>
+    <!--BottomBar Title 字符串-->
+    <string name="home">首页</string>
+    <string name="nag">导航</string>
+    <string name="music">音乐</string>
+    <string name="oil">加油</string>
+    <string name="vol">违章</string>
+
+    <!--DrawerItem-->
+    <string name="drawer_item_my_regulation">我的违章</string>
+    <string name="drawer_item_setting">设置</string>
+    <string name="drawer_item_about">关于</string>
+    <string name="drawer_item_update">检查更新</string>
+    <string name="drawer_item_feedback">用户反馈</string>
+    <string name="drawer_item_my_info">我的信息</string>
+    <string name="drawer_item_my_order">我的订单</string>
+    <string name="drawer_item_my_car">我的汽车</string>
+    <string name="drawer_item_now_playing">正在播放</string>
+    <string name="drawer_item_matence_car">维护车辆</string>
+
+</resources>

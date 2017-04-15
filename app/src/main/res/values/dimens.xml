@@ -1,0 +1,48 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="item_margin">8dp</dimen>
+
+    <dimen name="appBarTopMargin">0dp</dimen>
+
+    <dimen name="fragment_login_imageview_size">100dp</dimen>
+    <dimen name="fragment_login_progressbar_size">60dp</dimen>
+
+    <!--有关违章s信息的尺寸-->
+    <dimen name="csy_pd">10.0dp</dimen>
+    <dimen name="csy_mg">15.0dp</dimen>
+    <dimen name="csy_label_w">70.0dp</dimen>
+    <dimen name="csy_icon_w">40.0dp</dimen>
+    <dimen name="csy_row_h">64.0dp</dimen>
+    <dimen name="csy_item_h">52.0dp</dimen>
+    <dimen name="csy_tip_h">30.0dp</dimen>
+    <dimen name="csy_btn_h">46.0dp</dimen>
+    <dimen name="csy_label_ts">13.0sp</dimen>
+    <dimen name="csy_tip_ts">14.0sp</dimen>
+    <dimen name="csy_text_ts">16.0sp</dimen>
+    <dimen name="csy_title_ts">18.0sp</dimen>
+
+    <dimen name="activity_city_list_textview_list_tip">30.0dp</dimen>
+
+    <!--音乐-->
+    <dimen name="music_list_height">80dp</dimen>
+    <dimen name="music_list_img">60dp</dimen>
+    <dimen name="music_list_action">30dp</dimen>
+    <dimen name="music_list_duration">50dp</dimen>
+    <dimen name="music_list_margin">10dp</dimen>
+    <dimen name="music_list_play_pause">50dp</dimen>
+
+    <dimen name="spacing_card">10dp</dimen>
+    <dimen name="spacing_card_album_grid">3dp</dimen>
+
+    <!--导航-->
+    <dimen name="progress_bar_size">60dp</dimen>
+    <dimen name="button_text_size">18sp</dimen>
+
+    <!--首页-->
+    <dimen name="progress_bar_height">3dp</dimen>
+
+    <dimen name="text_description">10sp</dimen>
+</resources>
